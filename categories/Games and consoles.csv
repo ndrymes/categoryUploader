@@ -1,0 +1,24 @@
+"status","categoryName","categoryId","parentId","image","Alias"
+"ACTIVE","Games & Consoles","CAT2331E958",NULL,"https://rekognition-vision-images.s3.amazonaws.com/1592301148923",NULL
+"ACTIVE","Consoles","CATAD7DBDA7","CAT2331E958","https://rekognition-vision-images.s3.amazonaws.com/1592301148965",NULL
+"ACTIVE","Gaming","CAT6EB69184","CAT2331E958",NULL,NULL
+"ACTIVE","Accessories","CATAC34908E","CAT2331E958","https://rekognition-vision-images.s3.amazonaws.com/1592301148961",NULL
+"ACTIVE","Sony PSP","CAT0BF5FF64","CAT2331E958","https://rekognition-vision-images.s3.amazonaws.com/1592301148931",NULL
+"ACTIVE","PC Gaming","CAT7E99DDF4","CAT2331E958","https://rekognition-vision-images.s3.amazonaws.com/1592301148957",NULL
+"ACTIVE","Other Gaming Systems","CAT6248F009","CAT2331E958","https://rekognition-vision-images.s3.amazonaws.com/1592301148944",NULL
+"ACTIVE","Digital Games","CAT954C088C","CAT2331E958","https://rekognition-vision-images.s3.amazonaws.com/1592301148940",NULL
+"ACTIVE","PlayStation 4","CAT57D7FAE6","CATAD7DBDA7",NULL,NULL
+"ACTIVE","Xbox One","CAT759AEDFC","CATAD7DBDA7",NULL,NULL
+"ACTIVE","Nitendo Switch","CATD0CD0B71","CATAD7DBDA7",NULL,NULL
+"ACTIVE","Xbox 360","CATCBFF6FC5","CATAD7DBDA7",NULL,NULL
+"ACTIVE","PlayStation 3","CAT1718F920","CATAD7DBDA7",NULL,NULL
+"ACTIVE","Gaming","CAT2F11C426","CAT7785479A",NULL,NULL
+"ACTIVE","PlayStation 4","CAT1086C4E6","CAT2F11C426",NULL,"gaming_playstation 4"
+"ACTIVE","Gaming","CAT1277DA1F","CAT8FDB082C",NULL,NULL
+"ACTIVE","PlayStation 3","CAT1C026D42","CAT1277DA1F",NULL,"gaming_playstation 3"
+"ACTIVE","Gaming","CATA9DE3FDA","CAT578763D9",NULL,NULL
+"ACTIVE","Xbox One","CAT29316E9D","CATA9DE3FDA",NULL,"gaming_xbox one"
+"ACTIVE","Gaming","CATCBC9FA6B","CAT13F7858F",NULL,NULL
+"ACTIVE","Nitendo Switch","CAT76361461","CATCBC9FA6B",NULL,"gaming_nitendo switch"
+"ACTIVE","Gaming","CATB877DBB2","CAT493D3B2B",NULL,NULL
+"ACTIVE","Xbox 360","CATCFE82F43","CATB877DBB2",NULL,"gaming_xbox 360"

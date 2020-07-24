@@ -1,0 +1,23 @@
+"status","categoryName","categoryId","parentId","image","Alias"
+"ACTIVE","Pet Supplies","CAT93799BCA",NULL,"https://rekognition-vision-images.s3.amazonaws.com/1592325813190",NULL
+"ACTIVE","Birds","CATC6BF1065","CAT93799BCA","https://rekognition-vision-images.s3.amazonaws.com/1592325281085",NULL
+"ACTIVE","Cat & Dogs","CAT62E78E48","CAT93799BCA","https://rekognition-vision-images.s3.amazonaws.com/1592325281064",NULL
+"ACTIVE","Fish & Aquatic Pets","CATE4E2EB0B","CAT93799BCA","https://rekognition-vision-images.s3.amazonaws.com/1592325281090",NULL
+"ACTIVE","Cages & Accessories","CATC02C1210","CATC6BF1065","https://rekognition-vision-images.s3.amazonaws.com/1592325281117",NULL
+"ACTIVE","Bird Food","CAT7E3538FF","CATC6BF1065","https://rekognition-vision-images.s3.amazonaws.com/1592325281079",NULL
+"ACTIVE","Bed & Furnitures","CATD5F290AE","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281098",NULL
+"ACTIVE","Carriers & Strollers","CAT99ACDD5B","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281107",NULL
+"ACTIVE","Collars & Harnesses & Leashes","CATD0FDF3CA","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281076",NULL
+"ACTIVE","Flea & Tick Control","CAT9A62D938","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281100",NULL
+"ACTIVE","Food Cat & Dogs","CAT1D1D3DD0","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281008","cat & dogs_food"
+"ACTIVE","Grooming","CAT6A3E4F3A","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281096",NULL
+"ACTIVE","Health & Supplies","CAT28A53F1C","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281101",NULL
+"ACTIVE","Litter & Housebreaking","CATEF928F1D","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281069",NULL
+"ACTIVE","Toys","CAT0093F0A5","CAT62E78E48","https://rekognition-vision-images.s3.amazonaws.com/1592325281093",NULL
+"ACTIVE","Aquarium Cleaners","CATEEC5AFBB","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281132",NULL
+"ACTIVE","Aquarium Decor","CATD8DE6042","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281129",NULL
+"ACTIVE","Aquarium Pumps & Filters","CATFA5BC6E9","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281079",NULL
+"ACTIVE","Aquarium Water Treatments","CAT16164A18","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281123",NULL
+"ACTIVE","Aquariums & Fish Bowls","CAT81896D91","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281069",NULL
+"ACTIVE","Automatic Feeders","CAT0EAB1C13","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281110",NULL
+"ACTIVE","Fish Food","CATB59D9220","CATE4E2EB0B","https://rekognition-vision-images.s3.amazonaws.com/1592325281006","fish & aquatic pets_food"

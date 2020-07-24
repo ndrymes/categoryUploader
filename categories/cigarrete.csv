@@ -1,0 +1,12 @@
+status,categoryName,categoryId,parentId,image,Alias
+ACTIVE,Tobacco,CAT77CB9DB7,NULL,https://rekognition-vision-images.s3.amazonaws.com/1592326668348,NULL
+ACTIVE,Cigarette,CAT106CE861,CAT77CB9DB7,https://rekognition-vision-images.s3.amazonaws.com/1592326668352,NULL
+ACTIVE,Cigar,CATEB3C36E3,CAT77CB9DB7,https://rekognition-vision-images.s3.amazonaws.com/1592326668406,NULL
+ACTIVE,Tobacco-Related Products,CAT0A5B5A13,CAT77CB9DB7,https://rekognition-vision-images.s3.amazonaws.com/1592326668417,NULL
+ACTIVE,Smoking Pipes,CATC9AC770D,CAT0A5B5A13,NULL,NULL
+ACTIVE,Smoking Paper,CAT81275AEF,CAT0A5B5A13,NULL,NULL
+ACTIVE,Herb Crushers,CAT6AD57945,CAT0A5B5A13,NULL,NULL
+ACTIVE,Cigarette Paper,CATE8C37AC6,CAT0A5B5A13,NULL,NULL
+ACTIVE,Cigarette Lighter,CAT16C907ED,CAT0A5B5A13,NULL,NULL
+ACTIVE,Electronics Cigarette,CATA6BA2F21,CAT0A5B5A13,NULL,NULL
+ACTIVE,Others,CAT0FC20316,CAT0A5B5A13,NULL,NULL
